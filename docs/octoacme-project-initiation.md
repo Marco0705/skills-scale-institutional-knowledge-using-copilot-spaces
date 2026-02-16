@@ -19,6 +19,12 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
 
+### Key Roles in Initiation
+- **Business Analyst**: Leads requirement elicitation and stakeholder workshops, documents business needs
+- **Product Manager**: Defines problem statement, success metrics, and business value
+- **Project Manager**: Creates timeline, identifies dependencies and resources
+- **Technical Lead/Architect**: Provides initial technical feasibility assessment
+
 ## Project One-pager Template
 - Project name:
 - Problem statement:

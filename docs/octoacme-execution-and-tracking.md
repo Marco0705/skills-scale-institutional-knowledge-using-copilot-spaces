@@ -15,13 +15,20 @@ Guidance for managing day-to-day execution and tracking progress toward project 
   - Include issue link and acceptance criteria in PR description
   - Run automated tests and linting in CI before requesting review
   - Require at least one approval before merging (or team-defined policy)
+  - **UX Designer** reviews PRs for design implementation accuracy and accessibility
+
+### Design Handoff & Implementation
+- **UX Designer** provides design specs, prototypes, and acceptance criteria before development starts
+- Developers collaborate with UX during implementation for clarifications
+- Design QA occurs during PR review to ensure fidelity to design specifications
 
 ## Quality & Testing
-- Unit tests for new logic
-- Integration tests where applicable
-- End-to-end smoke tests for critical flows before release
-- Security scanning in CI
-- Manual QA for feature acceptance when needed
+- Unit tests for new logic (owned by **Developers**)
+- Integration tests where applicable (owned by **Developers**)
+- End-to-end smoke tests for critical flows before release (coordinated by **QA Lead**)
+- Security scanning in CI (monitored by **DevOps/Platform Engineer**)
+- Manual QA for feature acceptance when needed (led by **QA Lead**)
+- Usability testing and accessibility validation (led by **UX Designer**)
 
 ## Reporting & Metrics
 - Track velocity and burndown
