@@ -16,6 +16,15 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
 
+### Role Participation in Planning
+- **Business Analyst**: Facilitates requirements workshops, documents user stories with acceptance criteria
+- **Product Manager**: Prioritizes backlog based on business value and user needs
+- **UX Designer**: Provides design estimates, identifies design dependencies and deliverables
+- **Developers**: Provide technical estimates and identify technical dependencies
+- **QA Lead**: Defines test strategy and QA approach for the release
+- **DevOps/Platform Engineer**: Identifies infrastructure needs, deployment dependencies, and automation requirements
+- **Project Manager**: Coordinates planning activities, documents timelines and risks
+
 ## Backlog Item Template
 - Title:
 - Description:
